@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "zsh bundle.zsh",
+    "start": "java -jar output.jar"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bun-types": "^0.5.6"
+  }
+}
