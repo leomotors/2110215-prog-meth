@@ -1,0 +1,3 @@
+Sword 100
+Diamond 100
+Diamond 200

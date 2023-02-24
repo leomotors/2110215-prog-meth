@@ -1,0 +1,2 @@
+HealingOrb 100
+ManaPotion 200
