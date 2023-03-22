@@ -6,5 +6,5 @@ bun run copyfiles.ts src/**/*.java
 bun run copyfiles.ts bin/**/*.class
 
 cd out
-jar cfe out.jar main.Main . ../*.txt
+jar cfe out.jar main.Main .
 mv out.jar ../2110215_Lab1_2022_2_6532068721_Nutthapat.jar
